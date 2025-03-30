@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # =============================================================================
-# backdoorhuntforctfs - Linux backdoor detection suite (for CTFs/forensics)
+# backdoorhuntforctfs - Linux backdoor detection suite for CTFs
 # Author: piscu
 # =============================================================================
 
